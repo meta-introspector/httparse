@@ -10,7 +10,7 @@ readme = "README.md"
 keywords = ["http", "parser", "no_std"]
 categories = ["network-programming", "no-std", "parser-implementations", "web-programming"]
 edition = "2021"
-rust-version = "1.59"
+# rust-version = "1.59"
 
 [features]
 default = ["std"]
